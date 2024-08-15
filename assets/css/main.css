@@ -2108,8 +2108,7 @@ input, select, textarea {
 		box-shadow: inset 0px -8px 0px 0px #fff, inset 0px 8px 0px 0px #fff;
 		position: relative;
 		text-transform: uppercase;
-		
-		padding: 10em 0;
+	        padding: 10em 0;
 	}
 
 		#banner p {
