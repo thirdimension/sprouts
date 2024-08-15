@@ -150,7 +150,7 @@ input, select, textarea {
 
 		a:hover {
 			color: #262c24;
-			border-bottom-color: initial;
+			border-bottom-color: none;
 		}
 
 		a:hover strong {
