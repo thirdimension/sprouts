@@ -147,6 +147,8 @@ input, select, textarea {
 			-ms-transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
 			transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
 		}
+                a {text-decoration: none; /* Remove default underline */
+                }
 
 		a:hover {
 			color: #262c24;
