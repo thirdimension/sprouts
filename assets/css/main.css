@@ -203,23 +203,6 @@ input, select, textarea {
 		clear: both;
 	}
 
-<style>
-    /* Custom button style */
-    .custom-learn-more {
-        background-color: #819c79;
-        color: #fff;
-        border-radius: 5px;
-        padding: 10px 20px;
-        text-decoration: none;
-        display: inline-block;
-    }
-
-    /* Hover effect */
-    .custom-learn-more:hover {
-        background-color: #6f8767; /* A slightly darker shade for hover */
-    }
-</style>
-
 /* Container */
 
 	.container {
